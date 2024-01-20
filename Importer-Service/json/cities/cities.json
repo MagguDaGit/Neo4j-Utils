@@ -1,0 +1,34 @@
+{
+  "cities": [
+    {
+      "name": "New York"
+    },
+    {
+      "name": "London"
+    },
+    {
+      "name": "Tokyo"
+    },
+    {
+      "name": "Paris"
+    },
+    {
+      "name": "Sydney"
+    },
+    {
+      "name": "Berlin"
+    },
+    {
+      "name": "Toronto"
+    },
+    {
+      "name": "Mumbai"
+    },
+    {
+      "name": "Sao Paulo"
+    },
+    {
+      "name": "Seoul"
+    }
+  ]
+}

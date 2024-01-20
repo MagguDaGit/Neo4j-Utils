@@ -1,0 +1,64 @@
+{
+  "people": [
+    {
+      "name": "John Doe",
+      "age": 28,
+      "country_code": "US",
+      "city": "New York"
+    },
+    {
+      "name": "Alice Smith",
+      "age": 35,
+      "country_code": "CA",
+      "city": "Toronto"
+    },
+    {
+      "name": "David Johnson",
+      "age": 22,
+      "country_code": "UK",
+      "city": "London"
+    },
+    {
+      "name": "Emily Davis",
+      "age": 30,
+      "country_code": "FR",
+      "city": "Paris"
+    },
+    {
+      "name": "Michael Brown",
+      "age": 40,
+      "country_code": "DE",
+      "city": "Berlin"
+    },
+    {
+      "name": "Sophia Wilson",
+      "age": 25,
+      "country_code": "AU",
+      "city": "Sydney"
+    },
+    {
+      "name": "Daniel Miller",
+      "age": 33,
+      "country_code": "JP",
+      "city": "Tokyo"
+    },
+    {
+      "name": "Olivia Martinez",
+      "age": 31,
+      "country_code": "BR",
+      "city": "Sao Paulo"
+    },
+    {
+      "name": "William Johnson",
+      "age": 29,
+      "country_code": "IN",
+      "city": "Mumbai"
+    },
+    {
+      "name": "Ava Lee",
+      "age": 27,
+      "country_code": "KR",
+      "city": "Seoul"
+    }
+  ]
+}
