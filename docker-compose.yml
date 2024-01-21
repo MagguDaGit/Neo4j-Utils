@@ -8,7 +8,8 @@ services:
     expose:
       - 7474
       - 7687
-    volumes: -neo4j-data:/data
+    volumes:
+      - neo4j-data:/data
 
 volumes:
-  ne4j-data:
+  neo4j-data:
